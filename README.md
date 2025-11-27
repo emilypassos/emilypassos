@@ -2,8 +2,7 @@
 # Olá 👋! Meu nome é Emily Passos e sou estudante de Ciência da Computação BR
 
 ---
-
-- 👩‍💻 Desenvolvedora júnior em formação  
+ 
 - 🎓 Estudante de Ciência da Computação (cursando)  
 - 🚀 Em busca da primeira oportunidade na área de TI  
 - 💡 Apaixonada por tecnologia, idiomas e aprendizado contínuo por meio de cursos online  
